@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Basic C**
 
 - 📫 How to reach me **shikharadhikari7@gmail.com**
 
