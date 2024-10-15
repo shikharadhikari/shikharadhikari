@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shikhar Adhikari (Bibhusan)</h1>
+<h1 align="center">Hi 👋, I'm Shikhar Adhikari</h1>
 <h3 align="center">A passionate Python Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bibhusan7&label=Profile%20views&color=0e75b6&style=flat" alt="Bibhusan7" /> </p>
