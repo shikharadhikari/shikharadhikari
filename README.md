@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, C**
 
-- 📫 How to reach me **shikharadhikari7@gmail.com**
+- 📫 How to reach me **contact@shikharadhikari.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
